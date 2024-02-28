@@ -22,4 +22,5 @@ Navigate to the Frontend:
 Move to the frontend directory:
 cd Chat-Web/frontend
 npm install
+
 npm run dev
