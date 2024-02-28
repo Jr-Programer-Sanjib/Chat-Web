@@ -16,11 +16,15 @@ npm install
 npm start
 
 Open Another Terminal:
+
 Open a new terminal window or tab.
+
 Navigate to the Frontend:
 
 Move to the frontend directory:
+
 cd Chat-Web/frontend
+
 npm install
 
 npm run dev
