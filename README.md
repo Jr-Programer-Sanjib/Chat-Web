@@ -1,4 +1,4 @@
-# Chat - Web App
+# Chat - Web App 💬💬💬
 
 Welcome to Chat - Web App! This application allows you to chat with friends in real-time through a web interface. With its intuitive design and easy setup, you'll be chatting away in no time!
 
